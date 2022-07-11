@@ -32,7 +32,7 @@ jobs:
           path: ./microbitMore
       - uses: actions/checkout@v2
         with:
-          repository: champierre/tm2scratch
+          repository:  QuirkyCort/tm2scratch
           path: ./tm2scratch
       - uses: actions/checkout@v2
         with:
